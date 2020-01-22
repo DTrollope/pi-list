@@ -27,7 +27,7 @@ git submodule update --init --recursive
 Build the dependencies and the project:
 
 ```
-./scripts/setup-build-env.sh
+./scripts/setup_build_env.sh
 ./scripts/deploy/deploy.sh
 ```
 
