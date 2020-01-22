@@ -56,5 +56,5 @@ If necessary, [make you server visible from another host.](./local_docker.md#exp
 
 ```
 cd release
-./start.sh
+./server.sh start
 ```
